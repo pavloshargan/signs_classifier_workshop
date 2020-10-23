@@ -2,12 +2,11 @@
 
 ## We gonna discuss:
 
-1. What is Computer Vision at all, some history
-2. How does computer can see
-3. How does convolution work
-4. Some intuition about CNNs (Convolutional Neuroal Networks) 
-5. How to Create CNN for hand signs classification
-6. Will touch other topics of CV and application of them
+1. How does computer can see
+2. How does convolution work
+3. Some intuition about CNNs (Convolutional Neuroal Networks) 
+4. How to Create CNN for hand signs classification
+5. Will touch other topics of CV and application of them
 
 
 <br>
