@@ -10,13 +10,11 @@ while True:
     cv2.startWindowThread()
     cv2.namedWindow("image")
     cv2.imshow('image', img)
-    if keyboard.read_key() == "q":
-        break 
-    elif keyboard.read_key() == "s":
+    if cv2.waitKey(1) & 0xFF == ord('s'):
         ret, img = cap.read()
         count += 1
         print(str(count)+" "+sign_name)
-        cv2.imwrite('data/'+sign_name+'.'+str(count)+'.png',img)
+        cv2.imwrite("data/"+sign_name+'.'+str(count)+'.png',img)
     
     
 
