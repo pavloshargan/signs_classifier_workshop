@@ -19,6 +19,15 @@
 5. Download the [dataset](https://drive.google.com/file/d/1lW1mStGE7K90KnE8GZQ-cTIJvSWA_mlR/view?usp=sharing)
 
 ## Matherials for Learning
-Suggest to start from  Andrej's Karpathy course of lectures. Here is playlist [link](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
+1) Пропоную почати з курсу лекцій Андрія Карпатого  
+по конволюційним нейронним мережам. [Посилання на плейлист](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
+2) Deep Learning with Python (2018)
+Автор: Франсуа Шолле
+Книга про методи глибокго навчання(Комп'ютерний зір, текст, послідовності) з використанням бібліотеки Keras на Python.
+3) Курс від Andrew Ng 
+ [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
+4) Dive into deep learning, Автор: Aston Zhang
+5) Глубокое обучение (Deep Learning)
+Автори: Аарон Курвилль, Иошуа Бенджио, и Ян Гудфеллоу
 
 
