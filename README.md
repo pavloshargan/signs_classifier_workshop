@@ -17,3 +17,8 @@
 3. Install Jupyter-Notebook 
 4. Install modules: tensorflow, keras, cv2, numpy, matplotlib
 5. Download the [dataset](https://drive.google.com/file/d/1lW1mStGE7K90KnE8GZQ-cTIJvSWA_mlR/view?usp=sharing)
+
+## Matherials for Learning
+Suggest to start from  Andrej's Karpathy course of lectures. Here is playlist [link](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
+
+
